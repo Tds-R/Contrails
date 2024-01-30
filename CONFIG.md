@@ -15,7 +15,7 @@ FF14関連ツイート
 
 > This is the description of the feed.
 
-FF14に関する単語を含むポストと公式のミラーbotを表示します
+FF14に関する単語を含むポストと公式のミラーbotのポストを表示します
 
 # searchTerms
 

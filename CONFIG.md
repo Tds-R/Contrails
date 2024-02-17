@@ -9,7 +9,7 @@ FF14TL
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-FF14関連ツイート
+FF14関連フィード
 
 # description
 
